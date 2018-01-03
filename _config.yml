@@ -17,15 +17,15 @@ avatar: https://emojipedia-us.s3.amazonaws.com/thumbs/160/facebook/111/smiling-f
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: maksim.pikunov@icloud.com
+  email: maksim.pikunov+github@icloud.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: pikunov/pikunov.github.io
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: 
   googleplus: # anything in your profile username that comes after plus.google.com/
