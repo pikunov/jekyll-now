@@ -10,7 +10,8 @@ permalink: /about/
 ### Больше информации
 
 Никакой информации вы не узнаете, но если нужна помощь, обращайтесь.
-Захотите узнать что такое Python, вот [ссылка](https://ru.wikipedia.org/wiki/Python).
+
+Захотите узнать что такое Python, вот ссылка [https://ru.wikipedia.org/wiki/Python](https://ru.wikipedia.org/wiki/Python).
  
 ### Свяжись со мной
 
