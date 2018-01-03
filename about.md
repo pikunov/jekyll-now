@@ -15,4 +15,4 @@ permalink: /about/
  
 ### Свяжись со мной
 
-[maksim.pikunov@icloud.com](mailto:maksim.pikunov@icloud.com)
+[maksim.pikunov@icloud.com](mailto:maksim.pikunov+github@icloud.com)
